@@ -8,7 +8,8 @@ CO2 emissions are one of the biggest causes of global warming, and their consequ
 [Carbon emissions from electicity production](https://www.kaggle.com/txtrouble/carbon-emissions) A Monthly/Annual CO2 emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
 
 # Carbon dioxide emissions from electricity generation :
-![image](img/output.png)
+![download](https://github.com/user-attachments/assets/74e7b42e-bb5b-4d10-9b24-37dd83870ec4)
+
 <br/>
 
 # Total CO2 emission:
@@ -16,4 +17,5 @@ CO2 emissions are one of the biggest causes of global warming, and their consequ
 <br/>
 
 # Prediction result :
-[download](https://github.com/user-attachments/assets/60282a44-88c0-456d-a6df-6656fd16ba79)
+![download](https://github.com/user-attachments/assets/60282a44-88c0-456d-a6df-6656fd16ba79)
+<br/>
