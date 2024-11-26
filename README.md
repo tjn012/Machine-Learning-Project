@@ -12,10 +12,10 @@ CO2 emissions are one of the biggest causes of global warming, and their consequ
 
 <br/>
 
-# Total CO2 emission:
+# CO2 emissions (total from all electricity production methods):
 ![download](https://github.com/user-attachments/assets/9a02221a-79fd-420b-8e02-32e3dec92b67)
 <br/>
 
-# Prediction result :
+# Forecast results :
 ![download](https://github.com/user-attachments/assets/60282a44-88c0-456d-a6df-6656fd16ba79)
 <br/>
