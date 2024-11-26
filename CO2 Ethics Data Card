@@ -1,0 +1,41 @@
+Project Purpose and Scope:
+  What is the primary purpose of this project, how does it benefit stakeholders?
+    To forecast/monitor CO2 emissions. This will benefit stakeholders as this monitoring system will be used widespread to mitigate CO2 emissions in America.
+  Is the project scope clear and justifiable in terms of ethical impact?  
+    Yes.
+
+Data Sources and Reliability:
+  What are the sources of data, and are they credible and ethical?
+    https://www.eia.gov/totalenergy/. US Energy Information Administration. Yes.
+  Are potential biases in the data sources acknowledged or mitigated?
+    There are no biases in the data source to be mitigated.
+
+Stakeholder Transparency:
+  Are stakeholders informed about the project's aims, data use, and potential outcomes?
+    Yes.
+  Is there clear documentation accissible to stakeholders for full transparancy?
+    Yes. The complete raw dataset is on the website
+
+Bias and Fairness Check:
+  Has the project undergone rigorous checks to identify and mitigate biases?
+    Yes, no biases are present in the reports to the US EIA.
+  How does the project ensure fairness in its outputs, especially for marginalized groups?
+    This is objective data reported with no regard to demographics. This data is unbiased and represents teh entirety of America and every demographic that lives there.
+
+Data Protection and Anonymization:
+  Are data protection measures like anonymization in place?
+    No. It is not needed because no personal information is input by the user.
+  How does the projet secure data to prevent unauthorized access?
+    There is no unauthorized access to the public data.
+
+Ethical Impact Assessment:
+  Are there mechanisms to assess and track the ethical impact of the project over time?
+    No. These should be implemented in order to determine the results of CO2 emission mitigation to see if strategies put in place are actually affective.
+  Have potential risks been identified, and are there mitigation strategies in place?
+    There are no potential risks in monitoring CO2 emissions with the long-term goal of reducing these emissions.
+
+Ongoing Monitoring and Accountabilty:
+  Is there a plan for ongoing monitoring of the project's ethical impact?
+    Yes. Continuous monitoring and forecasting will allow users to see the sustainability results and impact of strategies put in place to mitigate CO2 emissions. 
+  Are roles and responsibilities clearly defined to ensure accountability?
+    No. This website does not mention an accountability hierarchy involved in the collection of this data or the reasoning behind it.
