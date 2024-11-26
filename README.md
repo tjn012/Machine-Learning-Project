@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-CO2 Forecasting
+CO2 Forecasting utilizing the ARMIA and SARIMAX ML Models
 
 # Time Series CO2 Forecasting
 CO2 emissions are one of the biggest causes of global warming, and their consequences are getting serious over time. The objectives of this study is to determine, using an ARIMA model over the time series of the CO2 emission from electricity generation.
